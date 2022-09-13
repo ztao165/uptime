@@ -5,11 +5,11 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "api",
     "status": "up",
-    "uptime": "29.27%",
-    "uptimeDay": "29.27%",
-    "uptimeWeek": "29.27%",
-    "uptimeMonth": "29.27%",
-    "uptimeYear": "29.27%",
+    "uptime": "69.02%",
+    "uptimeDay": "69.02%",
+    "uptimeWeek": "69.02%",
+    "uptimeMonth": "69.02%",
+    "uptimeYear": "69.02%",
     "time": 735,
     "timeDay": 735,
     "timeWeek": 735,
@@ -24,17 +24,19 @@
     "url": "$API_HORIZON",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "api-horizon",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.83%",
+    "uptimeDay": "99.83%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.83%",
     "time": 4626,
     "timeDay": 4626,
     "timeWeek": 4626,
     "timeMonth": 4626,
     "timeYear": 4626,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-13": 0
+    }
   }
 ]
