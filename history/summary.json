@@ -5,19 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "app-api",
     "status": "up",
-    "uptime": "1.00%",
-    "uptimeDay": "1.00%",
-    "uptimeWeek": "1.00%",
-    "uptimeMonth": "1.00%",
-    "uptimeYear": "1.00%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 587,
     "timeDay": 587,
     "timeWeek": 587,
     "timeMonth": 587,
     "timeYear": 587,
-    "dailyMinutesDown": {
-      "2022-09-14": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "CRM API",
@@ -25,19 +23,17 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "crm-api",
     "status": "up",
-    "uptime": "0.77%",
-    "uptimeDay": "0.77%",
-    "uptimeWeek": "0.77%",
-    "uptimeMonth": "0.77%",
-    "uptimeYear": "0.77%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 628,
     "timeDay": 628,
     "timeWeek": 628,
     "timeMonth": 628,
     "timeYear": 628,
-    "dailyMinutesDown": {
-      "2022-09-14": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "CMS API",
@@ -45,18 +41,16 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "cms-api",
     "status": "up",
-    "uptime": "0.53%",
-    "uptimeDay": "0.53%",
-    "uptimeWeek": "0.53%",
-    "uptimeMonth": "0.53%",
-    "uptimeYear": "0.53%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 635,
     "timeDay": 635,
     "timeWeek": 635,
     "timeMonth": 635,
     "timeYear": 635,
-    "dailyMinutesDown": {
-      "2022-09-14": 11
-    }
+    "dailyMinutesDown": {}
   }
 ]
