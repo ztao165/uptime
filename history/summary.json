@@ -4,19 +4,19 @@
     "url": "$APP_API",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "app-api",
-    "status": "down",
-    "uptime": "8.38%",
-    "uptimeDay": "8.38%",
-    "uptimeWeek": "8.38%",
-    "uptimeMonth": "8.38%",
-    "uptimeYear": "8.38%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "1.00%",
+    "uptimeDay": "1.00%",
+    "uptimeWeek": "1.00%",
+    "uptimeMonth": "1.00%",
+    "uptimeYear": "1.00%",
+    "time": 587,
+    "timeDay": 587,
+    "timeWeek": 587,
+    "timeMonth": 587,
+    "timeYear": 587,
     "dailyMinutesDown": {
-      "2022-09-14": 0
+      "2022-09-14": 11
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "$CRM_API",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "crm-api",
-    "status": "down",
-    "uptime": "5.19%",
-    "uptimeDay": "5.19%",
-    "uptimeWeek": "5.19%",
-    "uptimeMonth": "5.19%",
-    "uptimeYear": "5.19%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "0.77%",
+    "uptimeDay": "0.77%",
+    "uptimeWeek": "0.77%",
+    "uptimeMonth": "0.77%",
+    "uptimeYear": "0.77%",
+    "time": 628,
+    "timeDay": 628,
+    "timeWeek": 628,
+    "timeMonth": 628,
+    "timeYear": 628,
     "dailyMinutesDown": {
-      "2022-09-14": 0
+      "2022-09-14": 11
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "$CMS_API",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "cms-api",
-    "status": "down",
-    "uptime": "9.55%",
-    "uptimeDay": "9.55%",
-    "uptimeWeek": "9.55%",
-    "uptimeMonth": "9.55%",
-    "uptimeYear": "9.55%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "0.53%",
+    "uptimeDay": "0.53%",
+    "uptimeWeek": "0.53%",
+    "uptimeMonth": "0.53%",
+    "uptimeYear": "0.53%",
+    "time": 635,
+    "timeDay": 635,
+    "timeWeek": 635,
+    "timeMonth": 635,
+    "timeYear": 635,
     "dailyMinutesDown": {
-      "2022-09-14": 0
+      "2022-09-14": 11
     }
   }
 ]
