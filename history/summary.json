@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "app-api",
     "status": "up",
-    "uptime": "98.75%",
+    "uptime": "98.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.75%",
-    "uptimeYear": "98.75%",
-    "time": 628,
-    "timeDay": 692,
-    "timeWeek": 630,
-    "timeMonth": 628,
-    "timeYear": 628,
+    "uptimeMonth": "98.86%",
+    "uptimeYear": "98.86%",
+    "time": 625,
+    "timeDay": 572,
+    "timeWeek": 611,
+    "timeMonth": 625,
+    "timeYear": 625,
     "dailyMinutesDown": {
       "2022-09-14": 179
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 676,
-    "timeDay": 699,
-    "timeWeek": 670,
-    "timeMonth": 676,
-    "timeYear": 676,
+    "time": 667,
+    "timeDay": 537,
+    "timeWeek": 642,
+    "timeMonth": 667,
+    "timeYear": 667,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 659,
-    "timeDay": 639,
-    "timeWeek": 659,
-    "timeMonth": 659,
-    "timeYear": 659,
+    "time": 664,
+    "timeDay": 740,
+    "timeWeek": 653,
+    "timeMonth": 664,
+    "timeYear": 664,
     "dailyMinutesDown": {}
   }
 ]
