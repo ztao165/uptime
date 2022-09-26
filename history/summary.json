@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "app-api",
     "status": "up",
-    "uptime": "98.86%",
+    "uptime": "98.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.86%",
-    "uptimeYear": "98.86%",
-    "time": 625,
-    "timeDay": 572,
-    "timeWeek": 611,
-    "timeMonth": 625,
-    "timeYear": 625,
+    "uptimeMonth": "98.96%",
+    "uptimeYear": "98.96%",
+    "time": 622,
+    "timeDay": 584,
+    "timeWeek": 597,
+    "timeMonth": 622,
+    "timeYear": 622,
     "dailyMinutesDown": {
       "2022-09-14": 179
     }
@@ -31,8 +31,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 667,
-    "timeDay": 537,
-    "timeWeek": 642,
+    "timeDay": 670,
+    "timeWeek": 629,
     "timeMonth": 667,
     "timeYear": 667,
     "dailyMinutesDown": {}
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 664,
-    "timeDay": 740,
-    "timeWeek": 653,
-    "timeMonth": 664,
-    "timeYear": 664,
+    "time": 662,
+    "timeDay": 620,
+    "timeWeek": 637,
+    "timeMonth": 662,
+    "timeYear": 662,
     "dailyMinutesDown": {}
   }
 ]
